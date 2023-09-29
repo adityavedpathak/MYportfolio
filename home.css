@@ -190,9 +190,9 @@ margin: auto;
 
 .card {
   width: 100%;
-  max-width: 10vw;
-  min-width: 10vh;
-  height: 250px;
+  max-width: 15vw;
+  min-width: 15vh;
+  height: 20vh;
   background-color: #292929;
   margin: 10px;
   border-radius: 10px;
